@@ -1,0 +1,2 @@
+2025-01-13 15:45:46,593 - SSL error occurred: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Authority Key Identifier (_ssl.c:1018)
+2025-01-13 15:45:46,593 - Connection closed.
