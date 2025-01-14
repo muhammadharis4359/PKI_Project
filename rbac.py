@@ -7,16 +7,7 @@ roles = {
 
 # Function to check access
 def check_access(role, action):
+    """ Check if the given role is allowed to perform the action """
     if action in roles.get(role, []):
         return True
     return False
-
-# Test RBAC
-if __name__ == "__main__":
-    role = input("Enter your role (Admin/User/Device): ")
-    action = input("Enter the action you want to perform: ")
-    
-    if check_access(role, action):
-        print(f"Access granted for {role} to perform '{action}'.")
-    else:
-        print(f"Access denied for {role} to perform '{action}'.")

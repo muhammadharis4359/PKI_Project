@@ -1,0 +1,7 @@
+2025-01-14 05:24:01,411 - Error loading certificate or key: [SSL] PEM lib (_ssl.c:4076)
+2025-01-14 05:24:04,768 - Error loading certificate or key: [SSL] PEM lib (_ssl.c:4076)
+2025-01-14 05:24:23,251 - Error loading certificate or key: [SSL] PEM lib (_ssl.c:4076)
+2025-01-14 05:27:16,600 - Server certificate and key loaded successfully.
+2025-01-14 05:27:21,224 - SSL error occurred while accepting connection: [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:1018)
+2025-01-14 09:54:17,129 - SSL error occurred while accepting connection: [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:1018)
+2025-01-14 09:59:49,693 - SSL error occurred while accepting connection: [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:1018)
